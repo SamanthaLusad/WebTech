@@ -1,0 +1,35 @@
+
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 32px;
+    color: darkblue;
+    text-align: center;
+}
+
+h2 {
+    font-size: 22px;
+    color: darkgreen;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+ul {
+    line-height: 1.8;
+}
+
+a {
+    color: #145da0;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
